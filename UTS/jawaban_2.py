@@ -7,3 +7,4 @@ def mahasiswa ():
     print(nama)
     print(nim)
 mahasiswa()
+print("halo")
