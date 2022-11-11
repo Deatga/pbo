@@ -1,0 +1,5 @@
+Jelaskan narasi singkat tentang paradigma Pemrograman dan apakah yang dimaksud dengan pemograman berorientasi objek?
+jawaban :
+Paradigma Pemrograman adalah cara penulisan suatu program yang dilakukan dengan pendekatan untuk memecahkan suatu masalah 
+yang sama dengan menggunakan paradigma yang berbeda,seperti halnya terdapat beberapa rute untuk mencapai dari satu desa ke desa lainnya.
+

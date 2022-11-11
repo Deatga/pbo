@@ -1,0 +1,3 @@
+continue : jika val adalah huruf h maka yang terprint adalah semua huruf dari 'bahasa' kecuali huruf h
+
+break : jika val adalah huruf h maka yang terprint adalah semua huruf sebelum huruf h yaitu b dan a
